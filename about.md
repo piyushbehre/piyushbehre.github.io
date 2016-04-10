@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I'm a developer of things. These days I'm working on [The Zen Fund](https://thezenfund.com).
+I'm a developer of things. These days I'm working as a Program Manager at Microsoft.
 I'm fluent in JavaScript, Python, and C++.
 
 I'm an avid traveler (27 countries and counting).
