@@ -1,0 +1,11 @@
+---
+layout: page
+title: Book Notes
+permalink: "/books"
+---
+
+{% for book in site.books %}
+    <div class="book">
+        <h2><a href="{{ book.url }}">{{ book.title }}</a></h2>
+    </div>
+{% endfor %}

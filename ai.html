@@ -1,0 +1,11 @@
+---
+layout: page
+title: AI
+permalink: "/ai"
+---
+
+{% for ai in site.ai %}
+    <div class="ai">
+        <h2><a href="{{ ai.url }}">{{ ai.title }}</a></h2>
+    </div>
+{% endfor %}

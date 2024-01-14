@@ -1,0 +1,11 @@
+---
+layout: page
+title: Misc
+permalink: "/misc"
+---
+
+{% for post in site.misc %}
+    <div class="post">
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    </div>
+{% endfor %}

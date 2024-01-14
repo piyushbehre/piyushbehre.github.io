@@ -1,7 +1,8 @@
 ---
 layout:     post
-title:      "Useful resources for Immigration"
+title:      "Useful resources for US Immigration"
 date:       2024-01-01 12:00:00
+permalink: "/immigration"
 # header-img: "img/post-bg-01.jpg"
 ---
 
@@ -31,3 +32,11 @@ date:       2024-01-01 12:00:00
 - [CRP and Current](https://t.me/CRP2Current) telegram group
 - [I-485 EB Filers India](https://t.me/I485_EB_Filers_India) telegram group for Employment-based AOS filers from India
 - There are also groups for each FO, but gets pretty sparse as you go specific.
+
+#### Filing I-485
+
+- [I-485, Application to Register Permanent Residence or Adjust Status](https://www.uscis.gov/i-485)
+- [Form I-485, Application to Register Permanent Residence - USCIS](https://www.uscis.gov/sites/default/files/document/forms/i-485.pdf)
+- [Checklist of Required Initial Evidence for Form I-485](https://www.uscis.gov/forms/filing-guidance/checklist-of-required-initial-evidence-for-form-i-485-for-informational-purposes-only)
+- [Direct Filing Addresses for Form I-485, Application to Register](https://www.uscis.gov/forms/all-forms/direct-filing-addresses-for-form-i-485-application-to-register-permanent-residence-or-adjust-status)
+

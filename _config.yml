@@ -32,6 +32,18 @@ theme: minima
 plugins:
   - jekyll-feed
 
+collections_dir: _collections
+collections:
+  books:
+    output: true
+  ai:
+    output: true
+  misc:
+    output: true
+  # - ai:
+  #     output: true
+  
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to

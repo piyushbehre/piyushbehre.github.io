@@ -1,10 +1,12 @@
 ---
-layout:     post
-title:      "Steal like an Artist - Book notes"
+layout:     book
+title:      "Steal like an Artist - Book Notes"
 date:       2014-06-03 12:00:00
 author:     "Piyush Behre"
 header-img: "img/post-bg-01.jpg"
+permalink: "/books/stealartist"
 ---
+Book Author: Austin Kleon
 
 My notes from recently read <a href="http://www.amazon.com/gp/product/0761169253/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0761169253&linkCode=as2&tag=piyush06-20&linkId=BKKDHMJI6AJD7XPI" target="_blank">Steal like an Artist</a>.
 A quick read with nuggets of wisdom.
