@@ -22,3 +22,8 @@ gem install jekyll
 
 ```
 
+### Running locally
+```bash
+bundle install
+bundle exec jekyll serve
+```

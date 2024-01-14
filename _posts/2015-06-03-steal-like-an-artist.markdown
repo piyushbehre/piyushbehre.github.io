@@ -1,7 +1,6 @@
 ---
 layout:     post
 title:      "Steal like an Artist - Book notes"
-subtitle:   ""
 date:       2014-06-03 12:00:00
 author:     "Piyush Behre"
 header-img: "img/post-bg-01.jpg"
