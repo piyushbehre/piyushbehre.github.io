@@ -8,7 +8,7 @@ permalink: "/books/stealartist"
 ---
 Book Author: Austin Kleon
 
-My notes from recently read <a href="http://www.amazon.com/gp/product/0761169253/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0761169253&linkCode=as2&tag=piyush06-20&linkId=BKKDHMJI6AJD7XPI" target="_blank">Steal like an Artist</a>.
+My notes from recently read <a href="https://amzn.to/3vGSnH8" target="_blank">Steal like an Artist</a>.
 A quick read with nuggets of wisdom.
 <ol>
 	<li>All 'new' creations are built upon already existing ideas. There are no 'good' or 'bad' ideas. There are ones that are worth stealing, and others which are not.</li>
